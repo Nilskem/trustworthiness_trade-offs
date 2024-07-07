@@ -1,1 +1,2 @@
-# trustworthiness_trade-offs
+This repository contains the online appendix for the paper "Quantifying the Trade-Offs between Dimensions of Trustworthy AI - An Empirical Study on Fairness, Explainability, Privacy, and Robustness".
+The appendix includes the result tables for all investigated metrics.
